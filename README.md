@@ -71,4 +71,3 @@ conda deactivate
 ### 10. Additional Resources
 
 For more information on managing Conda environments, refer to the [Conda documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). For detailed Elasticsearch queries and operations, consult the [Elasticsearch reference documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html).
-
